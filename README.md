@@ -46,7 +46,6 @@
 ## 📊 Stats
 
 | ![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JACKN-777&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JACKN-777&layout=compact&theme=radical) |
-| --- | --- |
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JACKN-777&theme=radical)](https://github.com/JACKN-777)
 
