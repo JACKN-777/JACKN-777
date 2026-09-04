@@ -52,7 +52,7 @@
 
 ---
 
-![Contribution Snake](https://raw.githubusercontent.com/JACKN-777/JACKN-777/dist/snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/JACKN-777/JACKN-777/main/dist/snake.svg)
 
 ---
 
